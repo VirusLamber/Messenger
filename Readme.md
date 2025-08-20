@@ -18,7 +18,7 @@
 3. **Запустите:**
    - Сервер: `Server/Server.exe`
    - Клиент: `Client/Client.exe`
-4. **Скачайте RadminVPN** url - https://www.radmin-vpn.com/ru/
+4. **Скачайте [RadminVPN](https://www.radmin-vpn.com/ru/)**
 
 ### Способ 2: Сборка из исходников
 
@@ -34,3 +34,4 @@ cd Messenger
 Build/Server/Server.exe
 
 Build/Client/Client.exe
+
